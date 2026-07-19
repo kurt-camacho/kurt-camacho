@@ -9,7 +9,8 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://upld.me/i/GA7Vbmeu"  />
+<img data-importer="image" align="right" height="150" src="<img width="592" height="751" alt="file_00000000e2847207b32149c3cf81c8ab" src="https://github.com/user-attachments/assets/356fb1a4-eaf5-47aa-a5ee-7aee03a74ed5" />
+"  />
 
 ###
 
