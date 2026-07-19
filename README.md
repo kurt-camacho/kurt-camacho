@@ -10,7 +10,6 @@
 ###
 
 <img data-importer="image" align="right" height="150" src="https://github.com/user-attachments/assets/356fb1a4-eaf5-47aa-a5ee-7aee03a74ed5" />
-"  />
 
 ###
 
